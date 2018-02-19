@@ -14,7 +14,7 @@
 
 	.service-icon {
 		display: block;
-		@include font($size: 30px);
+		@include font($size: 40px);
 		color: $color-link-hover;
 		margin-bottom: 30px;
 	}
