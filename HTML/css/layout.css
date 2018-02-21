@@ -39,7 +39,7 @@ p {
   font-size: 15px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #13de17;
+  color: #515769;
   line-height: 1.4;
   margin-bottom: 15px;
 }
@@ -1006,7 +1006,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .bg-color-sky-light {
-  background: #1b0a0a !important;
+  background: #fafafa !important;
 }
 
 /*------------------------------------------------------------------

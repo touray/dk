@@ -39,7 +39,11 @@ p {
   font-size: 15px;
   font-weight: 400;
   font-family: Hind, sans-serif;
-  color: #a6a7aa;
+<<<<<<< HEAD
+  color: #1f1c1c;
+=======
+  color: #252f38;
+>>>>>>> 866ba976aac2afd9553f1308a6feabdf71f5bc0e
   line-height: 1.4;
   margin-bottom: 15px;
 }
