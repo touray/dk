@@ -67,7 +67,12 @@ a:focus, a:hover, a:active {
   outline: 0;
   color: #999caa;
   text-decoration: none;
+
+.icon-back {
+    font-size: 100px;
+
 }
+ 
 
 .link {
   position: relative;
