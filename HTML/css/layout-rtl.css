@@ -95,6 +95,10 @@ span {
   color: #bfc1c7;
 }
 
+.icon-back {
+  width: 70px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   font-family: Hind, sans-serif;
