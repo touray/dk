@@ -1,0 +1,457 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isInteger"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"con",
+				"contacts"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"hipp",
+				"hippopotamus"
+			],
+			[
+				"hi",
+				"hippotamus"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 29.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packla",
+				"Package Control: List Packages"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Tooltip Theme"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"livereloa",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 479.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"LiveReload: added file /livereload.js with content-type: text/javascript"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yahya/Code/deniz_karaca/HTML/Readme.md",
+		"/Users/yahya/Code/portfolio/.git/COMMIT_EDITMSG",
+		"/Users/yahya/Desktop/website/story.html",
+		"/Users/yahya/Code/website/main.css",
+		"/Users/yahya/Desktop/website/main.css",
+		"/Users/yahya/Code/portfolio/main.css",
+		"/Users/yahya/Code/portfolio/progess.html",
+		"/Users/yahya/Code/portfolio/README.md",
+		"/Users/yahya/Code/portfolio/less/variables.less",
+		"/Users/yahya/Code/portfolio/scss/agency.scss",
+		"/Users/yahya/Code/portfolio/less/agency.less",
+		"/Users/yahya/Code/portfolio/css/progess.css",
+		"/Users/yahya/Code/portfolio/progess:css",
+		"/Users/yahya/Code/deniz_karaca/HTML/js/components/wow.js",
+		"/Users/yahya/Code/deniz_karaca/HTML/index.html",
+		"/Users/yahya/Code/deniz_karaca/HTML/css/layout-rtl.css",
+		"/Users/yahya/Desktop/website/index.html",
+		"/Users/yahya/Desktop/website/720480.jpg",
+		"/Users/yahya/Code/dk/HTML/index.html",
+		"/Users/yahya/Code/dk/HTML/img/logo.png",
+		"/Users/yahya/Code/dk/HTML/css/layout.css",
+		"/Users/yahya/Code/deniz_karaca/.git/COMMIT_EDITMSG",
+		"/Users/yahya/Code/deniz_karaca/HTML/sass/gui/_promo-block.scss",
+		"/Users/yahya/Code/deniz_karaca/HTML/sass/layout.scss",
+		"/Users/yahya/Code/deniz_karaca/HTML/sass/_variables.scss",
+		"/Users/yahya/Code/deniz_karaca/HTML/img/logo-dark.png",
+		"/Users/yahya/Code/deniz_karaca/HTML/img/logo-dark.jpg",
+		"/Users/yahya/Code/deniz_karaca/HTML/img/logo.jpg",
+		"/Users/yahya/Code/deniz_karaca/HTML/img/logo.png",
+		"/Users/yahya/Code/deniz_karaca/dev-tools/gulpfile.js",
+		"/Users/yahya/Code/deniz_karaca/claver.png",
+		"/Users/yahya/Code/deniz_karaca/HTML/img/clients/Deniz Karaca.html",
+		"/Users/yahya/Code/deniz_karaca/HTML/img/397x400/01.jpg",
+		"/Users/yahya/Code/deniz_karaca/HTML/img/1920x1080/01.jpg",
+		"/var r = 0;",
+		"/Users/yahya/Desktop/band/index_files/icomoon.css",
+		"/Users/yahya/DIRECTORY PATH/javascript/pangram/pangram.spec.js",
+		"/Users/yahya/Desktop/website/dojo_rules/introduction.md",
+		"/Users/yahya/Desktop/portfolio/index.html",
+		"/Users/yahya/Desktop/portfolio/portfolio/index.html",
+		"/Users/yahya/Desktop/website/all about mandinko.html",
+		"/Users/yahya/Desktop/website/untitled",
+		"/Users/yahya/Desktop/website/.git/COMMIT_EDITMSG",
+		"/Users/yahya/Desktop/portfolio/yarn.lock",
+		"/Users/yahya/.CFUserTextEncoding",
+		"/Users/yahya/§",
+		"/Users/yahya/exercism/javascript/rna-transcription/README.md",
+		"/Users/yahya/exercism/javascript/leap/leap.js",
+		"/Users/yahya/exercism/javascript/leap/README.md",
+		"/Users/yahya/exercism/javascript/two-fer/README.md",
+		"/Users/yahya/exercism/javascript/two-fer/two-fer.spec.js",
+		"/Users/yahya/exercism/javascript/hello-world/README.md",
+		"/Users/yahya/exercism/javascript/hello-world/hello-world.spec.js",
+		"/Users/yahya/exercism/javascript/two-fer/two-fer.js",
+		"/Users/yahya/exercism/javascript/hello-world/hello-world.js",
+		"/Users/yahya/.zshrc",
+		"/Users/yahya/Downloads/antrag-auf-erlaubnis-einer-beschaeftigung.pdf",
+		"/Users/yahya/Downloads/city-lights-syntax 2/package.json",
+		"/Users/yahya/Code/denizkaraca/images/danca",
+		"/Users/yahya/Desktop/website/720x480.jpg",
+		"/Users/yahya/Desktop/website/about.html",
+		"/Users/yahya/Desktop/website/about html",
+		"/Users/yahya/Desktop/website/mandinka-woman.jpg",
+		"/Users/yahya/Desktop/website/screen-shot-2015-06-19-at-12-34-11-pm.png",
+		"/Users/yahya/Downloads/Aircv-gh-pages/HTML/index.html",
+		"/Users/yahya/Downloads/Aircv-gh-pages/HTML/vendor/simple-line-icons/css/simple-line-icons.css",
+		"/Users/yahya/Downloads/Aircv-gh-pages/HTML/css/layout-rtl.css",
+		"/Users/yahya/Downloads/Aircv-gh-pages/dev-tools/index.js",
+		"/Users/yahya/Downloads/Aircv-gh-pages/dev-tools/package.json",
+		"/Users/yahya/Downloads/Aircv-gh-pages/dev-tools/gulpfile.js",
+		"/Users/yahya/Downloads/Aircv-gh-pages/readme.txt",
+		"/Users/yahya/Desktop/website/index:html",
+		"/Users/yahya/Desktop/website/img",
+		"/Users/yahya/Desktop/website/main.js",
+		"/Users/yahya/Desktop/main.css",
+		"/Users/yahya/Desktop/index.html",
+		"/Users/yahya/Desktop/htttps.yahya.com.html",
+		"/Users/yahya/Desktop/main:css",
+		"/Users/yahya/Desktop/image",
+		"/INDEX HTM",
+		"/Users/yahya/Downloads/FastPhotoTaggerAn/project.properties",
+		"/Users/yahya/000000_6805290.pdf",
+		"/Users/yahya/Code/portfolio/gulpfile.js",
+		"/Users/yahya/Code/portfolio/index.html",
+		"/Users/yahya/Code/portfolio/js/agency.js",
+		"/Users/yahya/Code/portfolio/js/agency.min.js",
+		"/Users/yahya/Code/spudBencer/main2.js",
+		"/Users/yahya/Code/spudBencer/image2",
+		"/Users/yahya/Code/spudBencer/style.css",
+		"/Users/yahya/Code/bino-free-html5-landing-page-template 3/assets/css/bootstrap.css",
+		"/Users/yahya/Downloads/FastPhotoTaggerAn/proguard-project.txt",
+		"/Users/yahya/Downloads/startbootstrap-agency-gh-pages.zip",
+		"/Users/yahya/Code/portfolio/img/about/1.jpg",
+		"/Users/yahya/Code/portfolio/img/about/Yahya Touray.html",
+		"/Users/yahya/Code/portfolio/img/portfolio/Yahya Touray.html",
+		"/Users/yahya/Code/portfolio/css/agency.css",
+		"/Users/yahya/Code/portfolio/img/header-bg.png",
+		"/Users/yahya/Code/portfolio/.gitignore",
+		"/Users/yahya/Code/cleanblog/scss/_variables.scss",
+		"/Users/yahya/Code/cleanblog/README.md",
+		"/Users/yahya/Code/cleanblog/css/clean-blog.css",
+		"/Users/yahya/Code/cleanblog/scss/_bootstrap-overrides.scss",
+		"/Users/yahya/Code/cleanblog/LICENSE",
+		"/Users/yahya/Code/cleanblog/about.html",
+		"/Users/yahya/Code/cleanblog/contact.html",
+		"/Users/yahya/Code/cleanblog/package.json",
+		"/Users/yahya/Code/cleanblog/gulpfile.js",
+		"/Users/yahya/Downloads/startbootstrap-clean-blog-4-dev/about.html",
+		"/Users/yahya/Downloads/startbootstrap-clean-blog-4-dev/README.md",
+		"/Users/yahya/Downloads/startbootstrap-clean-blog-4-dev/gulpfile.js",
+		"/Users/yahya/Downloads/startbootstrap-clean-blog-4-dev/package.json",
+		"/Users/yahya/Downloads/startbootstrap-clean-blog-4-dev.zip",
+		"/Users/yahya/Downloads/OPEN_SOURCE_SOFTWARE_NOTICE (4).txt",
+		"/Users/yahya/Downloads/JavaScriptGrid/index.htm",
+		"/Users/yahya/Downloads/startbootstrap-agency-gh-pages/img/portfolio/Agency - Start Bootstrap Theme.html",
+		"/Users/yahya/Downloads/startbootstrap-agency-gh-pages/img/team/yahyah.jpg",
+		"/Users/yahya/Movies/download.png",
+		"/Users/yahya/Code/spudBencer_old/style.css",
+		"/Users/yahya/Code/freelance/css/freelancer.min.css",
+		"/Users/yahya/Code/freelance/gulpfile.js",
+		"/Users/yahya/Code/freelance/less/mixins.less",
+		"/Users/yahya/Code/freelance/less/variables.less",
+		"/Users/yahya/Code/freelance/less/freelancer.less",
+		"/Users/yahya/Code/freelance/.gitignore",
+		"/Users/yahya/Code/spudBencer/temp.html",
+		"/Users/yahya/Code/spudBencer/main.js",
+		"/Users/yahya/Code/spudBencer/index.html",
+		"/Users/yahya/Code/js-playground/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 792.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 30.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"c",
+				"~/Documents/gambia/index.html"
+			],
+			[
+				"ad",
+				"gambia/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
